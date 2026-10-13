@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: config-service
+
+#greeting:
+#  message: Welcome to the Simple E-commerce. (config server)
