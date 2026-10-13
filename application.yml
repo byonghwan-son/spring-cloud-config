@@ -1,6 +1,7 @@
 spring:
   application:
     name: config-service
-
+gateway:
+  ip: 192.168.0.197
 #greeting:
 #  message: Welcome to the Simple E-commerce. (config server)
