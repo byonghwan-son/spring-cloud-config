@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: config-service
+token:
+  expiration-time: 864000000
+  secret: default-my-very-long-secret-key-1234567890123456-from-remote-repo
 gateway:
   ip: 192.168.0.197
 #greeting:
