@@ -1,6 +1,6 @@
 token:
   expiration-time: 864000000
-  secret: apple-changed-my-very-long-secret-key-1234567890123456-from-git
+  secret: apple-changed-my-very-long-secret-key-1234567890123456-from-remote-repo
 
 #greeting:
 #  message: Welcome to the Simple E-commerce. (config server)
